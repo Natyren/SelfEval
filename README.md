@@ -1,4 +1,4 @@
-# SelfEval: Automated Evaluation for Text-to-Image Generative Models [https://arxiv.org/abs/2311.10708]
+# [SelfEval: Automated Evaluation for Text-to-Image Generative Models](https://arxiv.org/abs/2311.10708)
 
 ## Overview
 
